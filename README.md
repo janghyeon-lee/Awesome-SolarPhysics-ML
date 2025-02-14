@@ -1,4 +1,4 @@
-# Awesome-SolarPhysics-ML
+# Awesome-HelioPhysics-ML
 
 This repository provides the latest and most comprehensive information on **machine learning papers and datasets for solar physics**.
 
